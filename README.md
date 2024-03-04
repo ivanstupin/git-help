@@ -1,15 +1,13 @@
 # Шпаргалка по Git
 
-Установка и настройка Git
+### Установка и настройка Git
 https://git-scm.com/download/win
 
-Настройка
-$ git config --global user.name "User Namovich" 
+$ git config --global user.name "User Namovich"<br>
 имя или ник нужно написать латиницей и в кавычках
 
-$ git config --global user.email username@yandex.ru
+$ git config --global user.email username@yandex.ru<br>
 здесь нужно указать свой настоящий email 
-
 
 Навигация
 pwd (от англ. print working directory, «показать рабочую папку») — покажи, в какой я папке;
